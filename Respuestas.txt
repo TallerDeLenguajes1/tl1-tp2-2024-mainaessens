@@ -1,1 +1,3 @@
 No se pueden ver los cambios que realizamos de la nueva versión en nuestro main. Son independientes. 
+
+Observo que se empieza a ramificar las versiones y a combinar.
